@@ -1,2 +1,2 @@
 # Global-CO2-Emissions-Analysis
-A project analyzing CO₂ emissions data to identify trends and insights using Python, Pandas, and Matplotlib
+Analyze and visualize how per capita CO₂ emissions have changed over time for individual countries and globally.
