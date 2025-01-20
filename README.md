@@ -26,7 +26,7 @@ Implication:
 The high per capita emissions in these countries emphasize the environmental challenges of wealth combined with fossil fuel-driven economies.
 
 ### 3. Per Capita CO₂ Emissions Trend: Afghanistan
-![Afghanistan Trend](images/afghanistan_trend.png)
+![Afghanistan Trend](images/afghanistan.png)
 
 Observation:
 
