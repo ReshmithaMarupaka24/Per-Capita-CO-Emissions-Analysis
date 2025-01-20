@@ -36,3 +36,10 @@ Implication:
 
 Political and economic stability play a significant role in a country's emissions trends. Afghanistan's low emissions per capita highlight its limited contribution to global CO₂ levels despite its challenges.
 
+
+Additional Insights
+
+Countries with high per capita emissions often have higher energy consumption for industrial or domestic purposes.
+
+Developing nations like Afghanistan and many African countries have significantly lower emissions per capita, showing disparities in global emissions responsibilities.
+
