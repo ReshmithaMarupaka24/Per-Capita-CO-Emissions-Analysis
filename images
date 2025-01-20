@@ -1,1 +1,9 @@
+# Save the global average plot
+plt.savefig('images/global_avg.png')
+
+# Save the top 5 countries plot
+plt.savefig('images/top_5_countries.png')
+
+# Save the Afghanistan trend plot
+plt.savefig('images/afghanistan_trend.png')
 
